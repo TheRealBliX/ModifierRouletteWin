@@ -1,0 +1,15 @@
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.csproj.AssemblyReference.cache
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.AssemblyInfoInputs.cache
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.AssemblyInfo.cs
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.csproj.CoreCompileInputs.cache
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\bin\Debug\net6.0\ModifierRouletteWin.exe
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\bin\Debug\net6.0\ModifierRouletteWin.deps.json
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\bin\Debug\net6.0\ModifierRouletteWin.runtimeconfig.json
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\bin\Debug\net6.0\ModifierRouletteWin.dll
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\bin\Debug\net6.0\ModifierRouletteWin.pdb
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.dll
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\refint\ModifierRouletteWin.dll
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.pdb
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ModifierRouletteWin.genruntimeconfig.cache
+D:\OwnProjects\ModifierRouletteWin\ModifierRouletteWin\obj\Debug\net6.0\ref\ModifierRouletteWin.dll
